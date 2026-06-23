@@ -97,14 +97,11 @@ Become a Software Engineer specializing in Java Backend and Full Stack Developme
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthu097&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&layout=compact)
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=karthu097&theme=tokyonight)
 
 ## 💡 Philosophy
 
