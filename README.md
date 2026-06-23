@@ -86,17 +86,8 @@ Become a Software Engineer specializing in Java Backend and Full Stack Developme
 
 ✔ Learning Cloud Computing & DevOps
 
----
 
-## 📫 Connect With Me
 
-📧 Email: **chandrapatikarthikeya2006@gmail.com**
-
-💼 LinkedIn: **www.linkedin.com/in/chandrapati-karthikeya-2776a7371**
-
----
-
-## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthu097&show_icons=true&theme=tokyonight)
